@@ -1,4 +1,4 @@
-package chapter1;
+package chapter2;
 
 /**
  * Chapter2 Problem4 替换空格

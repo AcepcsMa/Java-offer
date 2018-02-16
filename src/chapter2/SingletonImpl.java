@@ -1,4 +1,4 @@
-package chapter1;
+package chapter2;
 
 /**
  * 饿汉式实现

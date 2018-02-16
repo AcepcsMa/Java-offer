@@ -1,4 +1,4 @@
-package chapter1;
+package chapter2;
 
 /**
  * Chapter2 Problem3 二维数组中查找目标元素
