@@ -3,6 +3,9 @@ package chapter2;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * 链表节点
+ */
 class ListNode {
 	public int val;
 	public ListNode next;

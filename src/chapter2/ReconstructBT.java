@@ -2,6 +2,9 @@ package chapter2;
 
 import java.util.*;
 
+/**
+ * 树节点
+ */
 class TreeNode {
 	public int val;
 	public TreeNode left;
