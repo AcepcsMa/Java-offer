@@ -16,7 +16,7 @@ public class KthLargestInBST {
 		node5.right = node6;
 		node3.right = node4;
 
-		System.out.println(kthLargestInBST(node5, 1).val);
+		System.out.println(kthLargestInBST(node5, 3).val);
 	}
 
 	/**
